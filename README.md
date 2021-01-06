@@ -6,7 +6,7 @@ EJ. 10 y 15. va a sumar 11, 12, 13 y 14.
   - Cliente que consuma el servicio
   - Nota:  _Consumir el servicio con postman._
 
-[Imagen de envidencia en postman](https://github.com/UrielRivera2000/XML-RPC2/blob/main/EvidenciaEnPostman.png) 
+[Imagen de envidencia en postman](https://github.com/UrielRivera2000/XML-RPC4/blob/main/EvidenciaPostman2.png) 
 ## Detalles  🚀
 _Es un ejemplo de un servico XML-RPC sencillo._
 
